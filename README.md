@@ -62,11 +62,11 @@ def home():
 
 ## 文件结构
 
-fastapi-demo
-├── crud.py
-├── db.py
-├── main.py
-└── models.py
+fastapi-demo\
+├── crud.py\
+├── db.py\
+├── main.py\
+└── models.py\
 
 `main.py` 初始化 FastAPI 实例：
 
