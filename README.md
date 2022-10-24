@@ -1,4 +1,3 @@
-# FastAPI-CURD
 
 <img src="https://lpxz.oss-cn-zhangjiakou.aliyuncs.com/picgo/202209181732134.png" alt="FastAPI" style="zoom: 80%;" />
 
